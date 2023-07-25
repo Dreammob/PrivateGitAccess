@@ -2,7 +2,7 @@ const fastify = require('fastify')();
 const { Octokit } = require('@octokit/rest');
 
 // Replace with GitHub Personal Access Token
-const GITHUB_TOKEN = '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';
+const GITHUB_TOKEN = '';
 
 // Create a new Octokit instance
 const octokit = new Octokit({
