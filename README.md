@@ -17,13 +17,13 @@ http://localhost:3000/?owner= &repo= &path=
 ```
 Where after the equal sign is the owner of the repo, the name of the repo and the path to .md files repectively.\
 For example if trying to get this README.md:\
-http://localhost:3000/?owner=Dreammob&repo=PrivateGitAccess&path=README.md\
+http://localhost:3000/?owner=Dreammob&repo=PrivateGitAccess&path=README.md
 
 
 To get all .md files in a repo:\
 omit the path parameter from the above query string\
 For example, to get all .md files in this repo:\
-http://localhost:3000/?owner=Dreammob&repo=PrivateGitAccess\
+http://localhost:3000/?owner=Dreammob&repo=PrivateGitAccess
 
 
 
