@@ -5,7 +5,7 @@ This repo gives functionality to access private github .md files with an access 
 Node js, fastify and Octokit
 
 # To start a server
-In IDE enter : node index.js
+In IDE terminal enter : node index.js
 
 ## How to use
 Replace const GITHUB_TOKEN in index.js with the github access token for needed git repo\
