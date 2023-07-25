@@ -10,7 +10,7 @@ In IDE enter : node index.js\
 ## How to use
 Replace const GITHUB_TOKEN in index.js with the github access token for needed git repo\
 To get a specific .md file:\
-construct a query string that has the format of :\
+construct a query string that has the format of :
 <!-- embedme-ignore-next -->
 ```
 http://localhost:3000/?owner= &repo= &path=
